@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bizzon Info Solutions, founded in 2018 in Dubai, UAE, is a privately held software development firm specializing in business intelligence and advanced analytics solutions. Backed by Techstars and part of the API Evangelist network, Bizzon delivers data-driven applications and APIs to help enterprises unlock insights and automate processes.
+BIZZON is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by techstars) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Software · Business Intelligence · Analytics · Dubai · Startup
+**Areas:** Company
 
 ## BIZZON on APIs.io
 
@@ -80,13 +80,60 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentcash Com Domain Security](https://apis.io/security/agentcash-com/agentcash-com-domain-security/)
+- [BIZZON Domain Security](https://apis.io/security/agentcash-com/agentcash-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentcash.com/)
 
 ## API Evangelist rating
 
-**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+**Kin Score 0.4** — minimal · rubric 0.28.1 · scored 2026-11-21
 
-This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+| Facet | Score |
+|---|---|
+| Discoverability | 26.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentcash-com/](https://apis.io/providers/agentcash-com/).
 
 ## How this profile is made
 
